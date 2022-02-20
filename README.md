@@ -1,4 +1,4 @@
-# SimpleCasestudy
+# Casestudy-1
 ## SMOKESENSING ALARM
 
 ## FLOWCHART                                               
