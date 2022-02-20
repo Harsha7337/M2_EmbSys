@@ -51,6 +51,7 @@ and that the loading of the internal registers is complete before the device act
 
 
 
+
 # CASESTUDY-2
 ## OBSTACLE AVOIDING CAR
 
