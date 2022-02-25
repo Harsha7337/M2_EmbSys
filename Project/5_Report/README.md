@@ -26,7 +26,7 @@ Mostly used in vehicles to make sure that the equipments used are working effici
 | ID | Description |
 |-------|------|
 | LLR1 | ADC with Pulse Width Modulation.| 
-| LLR2 | Compatible on different Operating Systems. |
+| LLR2 | Compatible on different Operating Systems. | 
 
  
 # **SWOT Analysis:**

@@ -3,7 +3,7 @@ In this project we are going to design a circuit for measuring temperature. This
 
 
 # **Features:**
-
+ 
 - Low Cost 
 - Checks if the driver is seated or not.
 - Can modify the temperature according to the passenger.
