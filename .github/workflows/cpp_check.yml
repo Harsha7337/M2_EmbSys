@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
           
       - name: cppcheck
-        uses: Harsh7337/cppcheck-action@main
+        uses: Harsha7337/cppcheck-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
           
