@@ -1,4 +1,4 @@
-
+# TESTPLANANDOUTUT
 #### TEST PLAN:
 ### High Level Test plan:
 | ID    | Description                             | Expected O/P | Actual O/P |
@@ -15,3 +15,7 @@
 | L_02  |Reserve seat           | PASSED       |SUCCESS     |
 | L_03  |Confarmation messgage  | PASSED       |SUCCESS     |
 
+## OUTPUT
+1] Reading the tempereature frequently
+2] Sensing the temperature and get active with in the threshold
+3] Enable the light and display the temperate and gets activate
