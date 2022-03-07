@@ -17,5 +17,7 @@
 
 ## OUTPUT
 1] Reading the tempereature frequently
+
 2] Sensing the temperature and get active with in the threshold
+
 3] Enable the light and display the temperate and gets activate
