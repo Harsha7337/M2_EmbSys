@@ -26,29 +26,12 @@ Mostly used in vehicles to make sure that the equipments used are working effici
 | ID | Description |
 |-------|------|
 | LLR1 | ADC with Pulse Width Modulation.| 
-| LLR2 | Compatible on different Operating Systems. | 
+| LLR2 | Compatible on different Operating Systems. |
 
  
 # **SWOT Analysis:**
 
-**Strength:**
-
--Temperature modification can be done easily.
--Cost effective.
--Heat generation is fast.
-
-**Weakness:**
-- Need dry bags to store the heater.
-- Mostly applicable in countries with low temperature.
-- Not water proof.
-
-**Opportunities:**
-
--By implementing both heater and AC.
-
-**Threats:**
-- Can't use in high temperature areas.
-- High electrical resistance could cause the heater pad in the seat to overheat.
+![swot](https://user-images.githubusercontent.com/98849090/157058423-4b0f9bb9-5ea5-4dbf-9be5-f69d04525b7b.png)
 
 # **4W and 1H:**
 
@@ -82,3 +65,6 @@ By installing the system in vehicles.
 | L_01  |Open the app           | PASSED       |SUCESS      | 
 | L_03  |Reserve seat           | PASSED       |SUCCESS     |
 
+### Simulation
+
+![Image2](https://user-images.githubusercontent.com/94234616/144358766-a7706083-d87c-4139-8030-092eee803554.png)
